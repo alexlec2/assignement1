@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
